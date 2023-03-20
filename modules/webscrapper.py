@@ -12,7 +12,7 @@ firefox_options = Options()
 firefox_options.add_argument("--width=200, 250")
 firefox_options.add_argument("--height=250")
 firefox_options.headless = True
-# firefox_options.add_experimental_option("detach", True)
+
 
 
 driver = webdriver.Firefox(service=FirefoxService(GeckoDriverManager().install()), options=firefox_options)
