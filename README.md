@@ -1,10 +1,12 @@
 # Dotsy
-A Revolt bot for displaying the [Global Consciousness Project Dot's](https://gcpdot.com/) color.
+A python Revolt bot for displaying the color of the [Global Consciousness Project Dot.](https://gcpdot.com/)
 
 [Invite to your server!](https://app.revolt.chat/bot/01GVPN65T7V0661TQ9WQE56A7G)
 
 
 ## Dependencies
+
+[voltage](https://github.com/EnokiUN/voltage)
 
 [colorthief](https://github.com/fengsp/color-thief-py)
 
