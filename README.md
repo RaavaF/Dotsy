@@ -4,6 +4,11 @@ A python Revolt bot for displaying the color of the [Global Consciousness Projec
 [Invite to your server!](https://app.revolt.chat/bot/01GVPN65T7V0661TQ9WQE56A7G)
 
 
+## Usage
+
+send `d!dot` in your Revolt channel, that's it!
+
+
 ## Dependencies
 
 [voltage](https://github.com/EnokiUN/voltage)
