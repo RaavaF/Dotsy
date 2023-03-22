@@ -1,7 +1,6 @@
 import voltage
 from voltage.ext import commands
 import asyncio
-import random
 from modules import api_key
 from modules import colorextractor
 from modules import easter_eggs
